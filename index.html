@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>ALARM-CLOCK</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>ALARM-CLOCK</h1>
+
+    <div class="clockBlock">
+	<span id="clock"></span>
+    </div>
+
+    <h3>SET ALARM</h3>
+
+    <input type="text" class="setField" id="hourSetAlert" placeholder="00">:<input type="text" class="setField" id="minSetAlert" placeholder="00"></br>
+    <input type="text" class="setField" id="msgSetAlert" placeholder="Alarm message"></br>
+    <button id="btn" onClick="setAlert()">SET ALARM</button>
+
+    <div id="alarm">No alarm set yet.</div>
+
+	<footer>Develop by <a href="https://github.com/willypedroso" target="_blank" rel="noreferrer noopener"><strong>Will Pedroso</strong></a></footer>
+</body>
+<script src="script.js"></script>
+</html>
