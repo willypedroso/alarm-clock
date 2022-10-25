@@ -16,7 +16,8 @@ body {
 
 #msgSetAlert {
     margin-top: 10px;
-    width: 100px;
+    width: 150px;
+    text-align: center;
 }
 
 #btn {
