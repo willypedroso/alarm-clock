@@ -2,7 +2,7 @@
 
 Just a simple programmable web alarm using your device's clock time.
 
-## __Develop with:__
-__- HTML5__
-__- CSS3__
-__- JavaScript__
+## _Develop with:_
+_- HTML5_
+_- CSS3_
+_- JavaScript_
